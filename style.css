@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+caption{
+    font-size: 20px;
+    font-weight: bold;
+    color: #4F4F4F;
+    
+}
+.titulo{
+    font-size: 16px;
+    font-weight: bold;
+    color: #808080,;
+}
+
+th,td{
+    font-size: 16px;
+    padding: 15px;
+    border: 1px solid;
+    max-width: 150px;
+}
